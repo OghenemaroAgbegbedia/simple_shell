@@ -1,6 +1,6 @@
  Simple Shell 🐚
 
-This repo contains files as regards creating a simple shell. The contributors are Chinwe Chukwuogor and Abiodun Shittu.
+This repo contains files as regards creating a simple shell. The contributors are Agbegbedia Maro and Agava Kole.
 
 
 
